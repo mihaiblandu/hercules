@@ -17,8 +17,6 @@ Hercules focuses on **amassing** fragmented data streams from various sources—
 
 ---
 
-
-
 ## 🛠️ Installation
 
 Ensure you have the latest runtime environment installed, then run:
