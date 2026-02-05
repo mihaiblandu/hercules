@@ -8,13 +8,6 @@ It looks like we're refining the **Hercules: Amassing** project! If you need thi
 
 Hercules focuses on **amassing** fragmented data streams from various sources—APIs, logs, and databases—and consolidating them into structured, actionable datasets.
 
-### Key Strengths:
-
-* **Massive Scalability:** Built to scale horizontally across distributed clusters.
-* **Data Normalization:** Automatically flattens and cleanses complex JSON/XML structures.
-* **Custom "Labors":** Define transformation logic using a simple, pluggable plugin system.
-* **Fault Tolerance:** Built-in retry logic and "Herculean" persistence to prevent data loss.
-
 ---
 
 ## 🛠️ Installation
