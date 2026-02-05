@@ -8,8 +8,6 @@ It looks like we're refining the **Hercules: Amassing** project! If you need thi
 
 Hercules focuses on **amassing** fragmented data streams from various sources—APIs, logs, and databases—and consolidating them into structured, actionable datasets.
 
----
-
 ## 🛠️ Installation
 
 Ensure you have the latest runtime environment installed, then run:
