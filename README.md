@@ -1,7 +1,5 @@
 It looks like we're refining the **Hercules: Amassing** project! If you need this formatted specifically for a GitHub repository (a `README.md` file), here is a clean, professional version ready to be copied.
 
----
-
 # 🏛️ Hercules: Amassing
 
 **Hercules: Amassing** is a robust, high-performance data aggregation engine designed to handle the heavy lifting of modern data pipelines. Like its namesake, this tool is built for strength, reliability, and the ability to conquer "mythic" amounts of incoming information.
@@ -18,6 +16,8 @@ Hercules focuses on **amassing** fragmented data streams from various sources—
 * **Fault Tolerance:** Built-in retry logic and "Herculean" persistence to prevent data loss.
 
 ---
+
+
 
 ## 🛠️ Installation
 
